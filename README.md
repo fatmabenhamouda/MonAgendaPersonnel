@@ -156,9 +156,14 @@ Build and run the project from NetBeans.
 
 ## 📸 Application Screenshots
 
-Screenshots of the application's main interfaces will be added here.
+### 🏠 Main Dashboard
+![Main Dashboard](screenshots/dashboard.png)
 
-*Planned previews: Main Dashboard, Event Management, Interactive Calendar, and Event Search.*
+### 🗓️ Interactive Calendar
+![Calendar](screenshots/calendar.png)
+
+### 📝 Event Management
+![Event Management](screenshots/event-management.png)
 
 ## 👩‍💻 Contributors
 
